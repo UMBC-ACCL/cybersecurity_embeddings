@@ -10,7 +10,7 @@ If you use our cybersecurity embeddings or want to refer to it in a paper, pleas
   title =	 {UMBC at SemEval-2018 Task 8: Understanding Text about Malware}, <br />
   booktitle =	 {Proceedings of International Workshop on Semantic Evaluation (SemEval-2018)},                 
   address =	 {New Orleans, LA, USA},  
-  year =	 {2018}
+  year =	 {2018}<br />
 }
 
 or
