@@ -21,4 +21,7 @@ or
 > Ankur Padia, Arpita roy, Satyapanich Taneeya, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi and Tim Finin. "UMBC at SemEval-2018 Task 8: Understanding Text about Malware". Proceedings of International Workshop on Semantic Evaluation (SemEval-2018). New Orleans, LA, USA, 2018.
 
 
-
+Hash of the tar.gz
+--------------------------------------------
+> $ sha1sum word2vec_million_cybersecurity_docs_models.tar.gz 
+> f3c5195e8d2f7f2ab41431c2b180cb055121fd01  word2vec_million_cybersecurity_docs_models.tar.gz
