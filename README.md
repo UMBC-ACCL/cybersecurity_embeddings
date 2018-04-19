@@ -1,4 +1,4 @@
-Cybersecurity embeddings
+Download Cybersecurity embeddings
 -------------------------------------------
 Due to large size of the file, Cybersecurity embeddings are available at 
 https://bit.ly/2Hf79XJ (or its longer version https://umbc.app.box.com/folder/48768537382 )
