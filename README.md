@@ -23,5 +23,5 @@ or
 
 Hash of the tar.gz
 --------------------------------------------
-> $ sha1sum word2vec_million_cybersecurity_docs_models.tar.gz 
+> $ sha1sum word2vec_million_cybersecurity_docs_models.tar.gz <br />
 > f3c5195e8d2f7f2ab41431c2b180cb055121fd01  word2vec_million_cybersecurity_docs_models.tar.gz
