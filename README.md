@@ -4,7 +4,7 @@ Due to large size of the files, Cybersecurity embeddings are available at
 https://bit.ly/2Hf79XJ (or its longer version https://umbc.app.box.com/folder/48768537382 )
 
 
-Citation
+Citations / References
 -------------------------------------------
 If you use our cybersecurity embeddings or want to refer to it in a paper, please cite:
 
