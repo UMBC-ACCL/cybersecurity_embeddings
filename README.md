@@ -7,10 +7,14 @@ If you use our cybersecurity embeddings or want to refer to it in a paper, pleas
 
 @inproceedings{umbc2018semeval,
   author =	 {Padia, Ankur and Roy, Arpita and Satyapanich, Taneeya and Ferraro, Francis and Pan, Shimei and Park, Youngja and Joshi, Anupam and Finin, Tim},
+  
   title =	 {UMBC at SemEval-2018 Task 8: Understanding Text about Malware},
+  
   booktitle =	 {Proceedings of International Workshop on Semantic
                   Evaluation (SemEval-2018)},
+                  
   address =	 {New Orleans, LA, USA},
+  
   year =	 {2018}
 }
 
